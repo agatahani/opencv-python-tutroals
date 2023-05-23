@@ -74,7 +74,7 @@ Contents
 .. toctree::
    :maxdepth: 2
 
-   mentions
+   mentions/index
 
 **********
 References
