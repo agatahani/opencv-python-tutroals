@@ -75,6 +75,7 @@ Contents
    :maxdepth: 2
 
    mentions/index
+   Cat1/index
 
 **********
 References
