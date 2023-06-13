@@ -127,7 +127,7 @@ Contents
 ********
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    famous-athletes-from-philadelphia-pa/index
    historical-people-from-boston-ma/index
